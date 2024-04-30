@@ -1,2 +1,4 @@
 IT course
 The very real course
+Programming
+Javascript
